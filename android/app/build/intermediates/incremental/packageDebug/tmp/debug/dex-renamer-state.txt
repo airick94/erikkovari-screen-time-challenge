@@ -1,0 +1,4 @@
+#Sat Jan 25 23:32:45 GMT 2020
+base.0=/Users/erik/Documents/gg/job/hold-screen-time-challenge/screen-time-challenge/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
